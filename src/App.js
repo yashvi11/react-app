@@ -6,7 +6,7 @@ class App extends ReactComponent{
   {
     return(
       <div>
-
+        Phone Directory
       </div>
     );
 }
