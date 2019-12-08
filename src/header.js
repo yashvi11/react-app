@@ -5,7 +5,6 @@ const header = function (props) {
     
     return (
         <div className="header">
-            Phone Directory
             {props.heading}
         </div>
     )
