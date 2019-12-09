@@ -1,8 +1,8 @@
 
 import  React, {Component } from 'react';
 import Header from './header.js';
-import './App.css';
-
+//import './ShowSubscribers.css';
+import './PhoneDirectory.css';
 class App extends Component{
   constructor() {
     super();
